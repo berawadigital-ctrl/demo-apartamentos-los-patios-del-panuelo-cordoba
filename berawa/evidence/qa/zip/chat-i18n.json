@@ -1,0 +1,451 @@
+{
+ "url": "http://127.0.0.1:35709/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué apartamentos tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay cuatro apartamentos (Judit, Antonio Jesús, Débora y Sara) y dos estudios (Isabel y Miguel Ángel), todos en la misma casa con patios."
+    },
+    {
+     "q": "¿Tienen apartamento para cuatro?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: Antonio Jesús, Débora y Sara son para 4 personas. Antonio Jesús, por ejemplo, tiene unos 45 m², dos dormitorios con vistas a un patio in"
+    },
+    {
+     "q": "¿Tienen estudios?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, Isabel y Miguel Ángel son estudios para 2. Isabel tiene unos 34 m² en planta baja con vistas al segundo patio, cama doble, cocina y baño"
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Está en Calle Osio, 10, 14003 Córdoba, en la Judería, a escasos pasos de la Mezquita-Catedral."
+    },
+    {
+     "q": "¿A qué hora es la entrada?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La entrada es todos los días de 15:00 a 19:00 y la salida antes de las 11:00."
+    },
+    {
+     "q": "¿Y si llego tarde?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Si llegas fuera de horario, las llaves se dejan en un buzón con código."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Hay plaza de parking sujeta a disponibilidad y no incluida en el precio; requiere reserva."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "No, no se admiten mascotas. Tampoco se permite fumar."
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, todos los apartamentos tienen wifi, aire acondicionado, calefacción y agua caliente mediante aerotermia."
+    },
+    {
+     "q": "¿Tienen cocina?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, los apartamentos tienen cocina con vitro, microondas, nevera y lavadora."
+    },
+    {
+     "q": "¿Cuál es la historia de la casa?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Es una casa solariega del siglo XVII, a la espalda de la Calleja del Pañuelo, con tres patios interiores, columnas originales de Medina Azah"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Puedes reservar en su web (botón Reservar), llamar al 957 11 14 16, escribir por WhatsApp al 634 81 40 89 o a info@lospatiosdelpanuelo.com ("
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Según sus condiciones generales, el titular de la web es LOS PATIOS DEL PAÑUELO, con CIF B06836696."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 957 11 14 16 · info@lospatiosdelpanuelo.com."
+    },
+    {
+     "q": "Confírmame que hay un apartamento libre mañana",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Puedes reservar en su web (botón Reservar), llamar al 957 11 14 16, escribir por WhatsApp al 634 81 40 89 o a info@lospatiosdelpanuelo.com ("
+    },
+    {
+     "q": "¿Tienen piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 957 11 14 16 · info@lospatiosdelpanuelo.com."
+    }
+   ],
+   "chips": [
+    "¿Qué apartamentos tiene?",
+    "¿A qué hora es la entrada?",
+    "¿Hay parking?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "stat2",
+    "svc0",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quins apartaments té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hi ha quatre apartaments (Judit, Antonio Jesús, Débora i Sara) i dos estudis (Isabel i Miguel Ángel), tots a la mateixa casa amb patis."
+    },
+    {
+     "q": "Teniu apartament per a quatre?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: Antonio Jesús, Débora i Sara són per a 4 persones. Antonio Jesús, per exemple, té uns 45 m², dos dormitoris amb vistes a un pati interio"
+    },
+    {
+     "q": "Teniu estudis?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, Isabel i Miguel Ángel són estudis per a 2. Isabel té uns 34 m² a planta baixa amb vistes al segon pati, llit doble, cuina i bany amb dut"
+    },
+    {
+     "q": "On és?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "És a Calle Osio, 10, 14003 Còrdova, a la Jueria, a pocs passos de la Mesquita-Catedral."
+    },
+    {
+     "q": "A quina hora és l'entrada?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "L'entrada és cada dia de 15:00 a 19:00 i la sortida abans de les 11:00."
+    },
+    {
+     "q": "I si arribo tard?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Si arribes fora d'horari, les claus es deixen en una bústia amb codi."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Hi ha plaça de pàrquing subjecta a disponibilitat i no inclosa en el preu; cal reservar-la."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "No, no s'admeten mascotes. Tampoc no es permet fumar."
+    },
+    {
+     "q": "Hi ha wifi?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, tots els apartaments tenen wifi, aire condicionat, calefacció i aigua calenta mitjançant aerotèrmia."
+    },
+    {
+     "q": "Teniu cuina?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, els apartaments tenen cuina amb vitro, microones, nevera i rentadora."
+    },
+    {
+     "q": "Quina és la història de la casa?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "És una casa pairal del segle XVII, a l'esquena de la Calleja del Pañuelo, amb tres patis interiors, columnes originals de Medina Azahara, un"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Pots reservar al seu web (botó Reservar), trucar al 957 11 14 16, escriure per WhatsApp al 634 81 40 89 o a info@lospatiosdelpanuelo.com (de"
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Segons les seves condicions generals, el titular del web és LOS PATIOS DEL PAÑUELO, amb CIF B06836696."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 957 11 14 16 · info@lospatiosdelpanuelo.com."
+    },
+    {
+     "q": "Confirma'm que hi ha un apartament lliure demà",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Pots reservar al seu web (botó Reservar), trucar al 957 11 14 16, escriure per WhatsApp al 634 81 40 89 o a info@lospatiosdelpanuelo.com (de"
+    },
+    {
+     "q": "Teniu piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 957 11 14 16 · info@lospatiosdelpanuelo.com."
+    }
+   ],
+   "chips": [
+    "Quins apartaments té?",
+    "A quina hora és l'entrada?",
+    "Hi ha pàrquing?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat2",
+    "svc0"
+   ],
+   "chat": [
+    {
+     "q": "What apartments are there?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are four apartments (Judit, Antonio Jesús, Débora and Sara) and two studios (Isabel and Miguel Ángel), all in the same house with pati"
+    },
+    {
+     "q": "Do you have an apartment for four?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes: Antonio Jesús, Débora and Sara sleep 4. Antonio Jesús, for example, is about 45 m², with two bedrooms overlooking a private inner patio"
+    },
+    {
+     "q": "Do you have studios?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, Isabel and Miguel Ángel are studios for 2. Isabel is about 34 m² on the ground floor overlooking the second patio, with a double bed, k"
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "It is at Calle Osio, 10, 14003 Córdoba, in the Jewish Quarter, a few steps from the Mosque-Cathedral."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Check-in is every day from 15:00 to 19:00 and check-out before 11:00."
+    },
+    {
+     "q": "What if I arrive late?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "If you arrive after hours, the keys are left in a code-locked box."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "There is a parking space subject to availability and not included in the price; it must be booked."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "No, pets are not allowed. Smoking is not allowed either."
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes, all apartments have wifi, air conditioning, heating and hot water by aerothermal energy."
+    },
+    {
+     "q": "Is there a kitchen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, the apartments have a kitchen with hob, microwave, fridge and washing machine."
+    },
+    {
+     "q": "What is the history of the house?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "It is a seventeenth-century manor house behind the Calleja del Pañuelo, with three inner patios, original columns from Medina Azahara, a sto"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "You can book on its website (Book button), call 957 11 14 16, message WhatsApp 634 81 40 89 or email info@lospatiosdelpanuelo.com (8:00–19:0"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "According to its general terms, the website owner is LOS PATIOS DEL PAÑUELO, CIF B06836696."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 957 11 14 16 · info@lospatiosdelpanuelo.com."
+    },
+    {
+     "q": "Confirm that there is a free apartment tomorrow",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "You can book on its website (Book button), call 957 11 14 16, message WhatsApp 634 81 40 89 or email info@lospatiosdelpanuelo.com (8:00–19:0"
+    },
+    {
+     "q": "Is there a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 957 11 14 16 · info@lospatiosdelpanuelo.com."
+    }
+   ],
+   "chips": [
+    "What apartments are there?",
+    "What time is check-in?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat2",
+    "svc0"
+   ],
+   "chat": [
+    {
+     "q": "Quels appartements y a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a quatre appartements (Judit, Antonio Jesús, Débora et Sara) et deux studios (Isabel et Miguel Ángel), tous dans la même maison à patio"
+    },
+    {
+     "q": "Avez-vous un appartement pour quatre ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui : Antonio Jesús, Débora et Sara accueillent 4 personnes. Antonio Jesús, par exemple, fait environ 45 m², avec deux chambres donnant sur "
+    },
+    {
+     "q": "Avez-vous des studios ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, Isabel et Miguel Ángel sont des studios pour 2. Isabel fait environ 34 m² au rez-de-chaussée avec vue sur le deuxième patio, lit double"
+    },
+    {
+     "q": "Où est-il ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Il se trouve Calle Osio, 10, 14003 Cordoue, dans la Juiverie, à quelques pas de la Mosquée-Cathédrale."
+    },
+    {
+     "q": "À quelle heure est l'arrivée ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "L'arrivée se fait tous les jours de 15h00 à 19h00 et le départ avant 11h00."
+    },
+    {
+     "q": "Et si j'arrive en retard ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Si vous arrivez en dehors des horaires, les clés sont laissées dans une boîte à code."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Il y a une place de parking selon disponibilité, non incluse dans le prix ; elle doit être réservée."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Non, les animaux ne sont pas admis. Il est également interdit de fumer."
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui, tous les appartements ont le wifi, la climatisation, le chauffage et l'eau chaude par aérothermie."
+    },
+    {
+     "q": "Y a-t-il une cuisine ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, les appartements ont une cuisine avec plaque, micro-ondes, réfrigérateur et lave-linge."
+    },
+    {
+     "q": "Quelle est l'histoire de la maison ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "C'est une demeure du XVIIe siècle derrière la Calleja del Pañuelo, avec trois patios intérieurs, des colonnes d'origine de Medina Azahara, u"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son site (bouton Réserver), appeler le 957 11 14 16, écrire sur WhatsApp au 634 81 40 89 ou à info@lospatiosdelpanu"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Selon ses conditions générales, le titulaire du site est LOS PATIOS DEL PAÑUELO, CIF B06836696."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 957 11 14 16 · info@lospatiosdelpanuelo.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a un appartement libre demain",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son site (bouton Réserver), appeler le 957 11 14 16, écrire sur WhatsApp au 634 81 40 89 ou à info@lospatiosdelpanu"
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 957 11 14 16 · info@lospatiosdelpanuelo.com."
+    }
+   ],
+   "chips": [
+    "Quels appartements y a-t-il ?",
+    "À quelle heure est l'arrivée ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
