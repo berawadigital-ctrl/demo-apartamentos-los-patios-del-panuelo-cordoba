@@ -1,0 +1,624 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-apartamentos-los-patios-del-panuelo-cordoba",
+ "source_site": "https://www.lospatiosdelpanuelo.com/",
+ "source_read_at": "2026-10-29T16:59:00+01:00",
+ "note": "Respuestas solo con datos publicados en lospatiosdelpanuelo.com, sin precios. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "alojamientos",
+   "keys": {
+    "es": [
+     "que apartamentos",
+     "apartamentos tiene",
+     "alojamientos",
+     "tipos de"
+    ],
+    "ca": [
+     "quins apartaments",
+     "apartaments te",
+     "allotjaments",
+     "tipus d"
+    ],
+    "en": [
+     "what apartments",
+     "apartments are",
+     "accommodation",
+     "units"
+    ],
+    "fr": [
+     "quels appartements",
+     "appartements y a",
+     "logements"
+    ]
+   },
+   "a": {
+    "es": "Hay cuatro apartamentos (Judit, Antonio Jesús, Débora y Sara) y dos estudios (Isabel y Miguel Ángel), todos en la misma casa con patios.",
+    "ca": "Hi ha quatre apartaments (Judit, Antonio Jesús, Débora i Sara) i dos estudis (Isabel i Miguel Ángel), tots a la mateixa casa amb patis.",
+    "en": "There are four apartments (Judit, Antonio Jesús, Débora and Sara) and two studios (Isabel and Miguel Ángel), all in the same house with patios.",
+    "fr": "Il y a quatre appartements (Judit, Antonio Jesús, Débora et Sara) et deux studios (Isabel et Miguel Ángel), tous dans la même maison à patios."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/",
+     "quote": "JUDIT Los Patios del Pañuelo Apto 1"
+    },
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/",
+     "quote": "ANTONIO JESÚS Los Patios del Pañuelo Apto 2"
+    },
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/",
+     "quote": "ISABEL Los Patios del Pañuelo Apto 5"
+    },
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/",
+     "quote": "MIGUEL ÁNGEL Los Patios del Pañuelo Apto 6"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "cuatro personas",
+   "keys": {
+    "es": [
+     "cuatro",
+     "familia",
+     "dos dormitorios",
+     "grupo"
+    ],
+    "ca": [
+     "quatre",
+     "famil",
+     "dos dormitoris",
+     "grup"
+    ],
+    "en": [
+     "four",
+     "family",
+     "two bedroom",
+     "group"
+    ],
+    "fr": [
+     "quatre",
+     "famille",
+     "deux chambres",
+     "groupe"
+    ]
+   },
+   "a": {
+    "es": "Sí: Antonio Jesús, Débora y Sara son para 4 personas. Antonio Jesús, por ejemplo, tiene unos 45 m², dos dormitorios con vistas a un patio interior privado y sofá cama en el salón. Tienen cuna incluida.",
+    "ca": "Sí: Antonio Jesús, Débora i Sara són per a 4 persones. Antonio Jesús, per exemple, té uns 45 m², dos dormitoris amb vistes a un pati interior privat i sofà llit al saló. Tenen bressol inclòs.",
+    "en": "Yes: Antonio Jesús, Débora and Sara sleep 4. Antonio Jesús, for example, is about 45 m², with two bedrooms overlooking a private inner patio and a sofa bed in the living room. A cot is included.",
+    "fr": "Oui : Antonio Jesús, Débora et Sara accueillent 4 personnes. Antonio Jesús, par exemple, fait environ 45 m², avec deux chambres donnant sur un patio intérieur privé et un canapé-lit au séjour. Lit bébé inclus."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-antonio-jesus-los-patios-del-panuelo-apto-2-351165.html",
+     "quote": "El apartamento de unos 45 m2"
+    },
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-antonio-jesus-los-patios-del-panuelo-apto-2-351165.html",
+     "quote": "El apartamento consta de dos dormitorios con vistas a un patio interior privado"
+    },
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-antonio-jesus-los-patios-del-panuelo-apto-2-351165.html",
+     "quote": "Cuna: Incluida"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "estudios",
+   "keys": {
+    "es": [
+     "estudio",
+     "pareja",
+     "dos personas"
+    ],
+    "ca": [
+     "estudi",
+     "parella",
+     "dues persones"
+    ],
+    "en": [
+     "studio",
+     "couple",
+     "two people"
+    ],
+    "fr": [
+     "studio",
+     "couple",
+     "deux personnes"
+    ]
+   },
+   "a": {
+    "es": "Sí, Isabel y Miguel Ángel son estudios para 2. Isabel tiene unos 34 m² en planta baja con vistas al segundo patio, cama doble, cocina y baño con ducha.",
+    "ca": "Sí, Isabel i Miguel Ángel són estudis per a 2. Isabel té uns 34 m² a planta baixa amb vistes al segon pati, llit doble, cuina i bany amb dutxa.",
+    "en": "Yes, Isabel and Miguel Ángel are studios for 2. Isabel is about 34 m² on the ground floor overlooking the second patio, with a double bed, kitchen and shower room.",
+    "fr": "Oui, Isabel et Miguel Ángel sont des studios pour 2. Isabel fait environ 34 m² au rez-de-chaussée avec vue sur le deuxième patio, lit double, cuisine et salle d'eau."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/estudio-cordoba-isabel-los-patios-del-panuelo-apto-5-351752.html",
+     "quote": "Este apartamento-estudio, con unos 34 m2, de planta baja tiene vistas al segundo patio"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "mezquita",
+     "juderia"
+    ],
+    "ca": [
+     " on es",
+     "adreca",
+     "ubicacio",
+     "mesquita",
+     "jueria"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "mosque",
+     "jewish"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "mosquee",
+     "juiverie"
+    ]
+   },
+   "a": {
+    "es": "Está en Calle Osio, 10, 14003 Córdoba, en la Judería, a escasos pasos de la Mezquita-Catedral.",
+    "ca": "És a Calle Osio, 10, 14003 Còrdova, a la Jueria, a pocs passos de la Mesquita-Catedral.",
+    "en": "It is at Calle Osio, 10, 14003 Córdoba, in the Jewish Quarter, a few steps from the Mosque-Cathedral.",
+    "fr": "Il se trouve Calle Osio, 10, 14003 Cordoue, dans la Juiverie, à quelques pas de la Mosquée-Cathédrale."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/contacto/",
+     "quote": "C. Osio, 10 14003 Córdoba"
+    },
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-judit-los-patios-del-panuelo-apto-1-351164.html",
+     "quote": "a escasos pasos de la Mezquita-Catedral"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "horario",
+   "keys": {
+    "es": [
+     "entrada",
+     "salida",
+     "check",
+     "horario"
+    ],
+    "ca": [
+     "entrada",
+     "sortida",
+     "check",
+     "horari"
+    ],
+    "en": [
+     "check-in",
+     "check in",
+     "check-out",
+     "checkout",
+     "what time"
+    ],
+    "fr": [
+     "arrivee",
+     "depart",
+     "check",
+     "heure"
+    ]
+   },
+   "a": {
+    "es": "La entrada es todos los días de 15:00 a 19:00 y la salida antes de las 11:00.",
+    "ca": "L'entrada és cada dia de 15:00 a 19:00 i la sortida abans de les 11:00.",
+    "en": "Check-in is every day from 15:00 to 19:00 and check-out before 11:00.",
+    "fr": "L'arrivée se fait tous les jours de 15h00 à 19h00 et le départ avant 11h00."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-antonio-jesus-los-patios-del-panuelo-apto-2-351165.html",
+     "quote": "Horario de entrada Todos los días de 15:00 a 19:00 Horario de salida Antes de las 11:00"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "llegada tarde",
+   "keys": {
+    "es": [
+     "tarde",
+     "fuera de horario",
+     "llaves",
+     "buzon"
+    ],
+    "ca": [
+     "tard",
+     "fora d horari",
+     "claus",
+     "bustia"
+    ],
+    "en": [
+     "late",
+     "after hours",
+     "keys",
+     "key box"
+    ],
+    "fr": [
+     "retard",
+     "tard",
+     "cles",
+     "boite"
+    ]
+   },
+   "a": {
+    "es": "Si llegas fuera de horario, las llaves se dejan en un buzón con código.",
+    "ca": "Si arribes fora d'horari, les claus es deixen en una bústia amb codi.",
+    "en": "If you arrive after hours, the keys are left in a code-locked box.",
+    "fr": "Si vous arrivez en dehors des horaires, les clés sont laissées dans une boîte à code."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-antonio-jesus-los-patios-del-panuelo-apto-2-351165.html",
+     "quote": "Llegada fuera de horario: Llaves en buzón con código."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "aparcar",
+     "parking",
+     "aparcamiento",
+     "coche"
+    ],
+    "ca": [
+     "aparcar",
+     "parquing",
+     "aparcament",
+     "cotxe"
+    ],
+    "en": [
+     "parking",
+     "park",
+     "car"
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "voiture"
+    ]
+   },
+   "a": {
+    "es": "Hay plaza de parking sujeta a disponibilidad y no incluida en el precio; requiere reserva.",
+    "ca": "Hi ha plaça de pàrquing subjecta a disponibilitat i no inclosa en el preu; cal reservar-la.",
+    "en": "There is a parking space subject to availability and not included in the price; it must be booked.",
+    "fr": "Il y a une place de parking selon disponibilité, non incluse dans le prix ; elle doit être réservée."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-antonio-jesus-los-patios-del-panuelo-apto-2-351165.html",
+     "quote": "Plaza de parking sujeta a disponibilidad. Plaza de parking no incluida en el precio."
+    },
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-antonio-jesus-los-patios-del-panuelo-apto-2-351165.html",
+     "quote": "Aparcamiento con reserva necesaria"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     "gato",
+     "animal"
+    ],
+    "ca": [
+     "mascot",
+     "gos",
+     "gat",
+     "animal"
+    ],
+    "en": [
+     "pet",
+     "dog",
+     "cat",
+     "animal"
+    ],
+    "fr": [
+     "animal",
+     "animaux",
+     "chien",
+     "chat"
+    ]
+   },
+   "a": {
+    "es": "No, no se admiten mascotas. Tampoco se permite fumar.",
+    "ca": "No, no s'admeten mascotes. Tampoc no es permet fumar.",
+    "en": "No, pets are not allowed. Smoking is not allowed either.",
+    "fr": "Non, les animaux ne sont pas admis. Il est également interdit de fumer."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-antonio-jesus-los-patios-del-panuelo-apto-2-351165.html",
+     "quote": "No se permite fumar - No se admiten mascotas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet",
+     "wi-fi",
+     "aire acondicionado",
+     "calefaccion"
+    ],
+    "ca": [
+     "wifi",
+     "internet",
+     "wi-fi",
+     "aire condicionat",
+     "calefaccio"
+    ],
+    "en": [
+     "wifi",
+     "internet",
+     "wi-fi",
+     "air conditioning",
+     "heating"
+    ],
+    "fr": [
+     "wifi",
+     "internet",
+     "wi-fi",
+     "climatisation",
+     "chauffage"
+    ]
+   },
+   "a": {
+    "es": "Sí, todos los apartamentos tienen wifi, aire acondicionado, calefacción y agua caliente mediante aerotermia.",
+    "ca": "Sí, tots els apartaments tenen wifi, aire condicionat, calefacció i aigua calenta mitjançant aerotèrmia.",
+    "en": "Yes, all apartments have wifi, air conditioning, heating and hot water by aerothermal energy.",
+    "fr": "Oui, tous les appartements ont le wifi, la climatisation, le chauffage et l'eau chaude par aérothermie."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-judit-los-patios-del-panuelo-apto-1-351164.html",
+     "quote": "Todos los apartamentos poseen wifi, aire acondicionado, calefacción y agua caliente mediante aerotermia"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "cocina",
+   "keys": {
+    "es": [
+     "cocina",
+     "cocinar",
+     "microondas",
+     "lavadora",
+     "nevera"
+    ],
+    "ca": [
+     "cuina",
+     "cuinar",
+     "microones",
+     "rentadora",
+     "nevera"
+    ],
+    "en": [
+     "kitchen",
+     "cook",
+     "microwave",
+     "washing machine",
+     "fridge"
+    ],
+    "fr": [
+     "cuisine",
+     "cuisiner",
+     "micro-ondes",
+     "lave-linge",
+     "refrigerateur"
+    ]
+   },
+   "a": {
+    "es": "Sí, los apartamentos tienen cocina con vitro, microondas, nevera y lavadora.",
+    "ca": "Sí, els apartaments tenen cuina amb vitro, microones, nevera i rentadora.",
+    "en": "Yes, the apartments have a kitchen with hob, microwave, fridge and washing machine.",
+    "fr": "Oui, les appartements ont une cuisine avec plaque, micro-ondes, réfrigérateur et lave-linge."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-judit-los-patios-del-panuelo-apto-1-351164.html",
+     "quote": "consta de vitro, microondas, nevera y lavadora"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "historia",
+   "keys": {
+    "es": [
+     "historia",
+     "siglo",
+     "casa solariega",
+     "patios",
+     "edificio"
+    ],
+    "ca": [
+     "historia",
+     "segle",
+     "casa pairal",
+     "patis",
+     "edifici"
+    ],
+    "en": [
+     "history",
+     "century",
+     "manor",
+     "patios",
+     "building"
+    ],
+    "fr": [
+     "histoire",
+     "siecle",
+     "demeure",
+     "patios",
+     "batiment"
+    ]
+   },
+   "a": {
+    "es": "Es una casa solariega del siglo XVII, a la espalda de la Calleja del Pañuelo, con tres patios interiores, columnas originales de Medina Azahara, una fuente de piedra con cabezas de leones, un pozo y un aljibe.",
+    "ca": "És una casa pairal del segle XVII, a l'esquena de la Calleja del Pañuelo, amb tres patis interiors, columnes originals de Medina Azahara, una font de pedra amb caps de lleó, un pou i un aljub.",
+    "en": "It is a seventeenth-century manor house behind the Calleja del Pañuelo, with three inner patios, original columns from Medina Azahara, a stone fountain with lion heads, a well and a cistern.",
+    "fr": "C'est une demeure du XVIIe siècle derrière la Calleja del Pañuelo, avec trois patios intérieurs, des colonnes d'origine de Medina Azahara, une fontaine en pierre à têtes de lion, un puits et une citerne."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/nosotros/",
+     "quote": "encontramos esta casa solariega del siglo XVII"
+    },
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/nosotros/",
+     "quote": "Esta casa señorial está situada a la espalda de la icónica Calleja del pañuelo"
+    },
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/nosotros/",
+     "quote": "una fuente de piedra original con cabezas de leones, un pozo, un aljibe"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free apartment",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su web (botón Reservar), llamar al 957 11 14 16, escribir por WhatsApp al 634 81 40 89 o a info@lospatiosdelpanuelo.com (de 8:00 a 19:00). Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar al seu web (botó Reservar), trucar al 957 11 14 16, escriure per WhatsApp al 634 81 40 89 o a info@lospatiosdelpanuelo.com (de 8:00 a 19:00). Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book on its website (Book button), call 957 11 14 16, message WhatsApp 634 81 40 89 or email info@lospatiosdelpanuelo.com (8:00–19:00). This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur son site (bouton Réserver), appeler le 957 11 14 16, écrire sur WhatsApp au 634 81 40 89 ou à info@lospatiosdelpanuelo.com (de 8h00 à 19h00). Cet assistant ne confirme ni disponibilités ni réservations."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/contacto/",
+     "quote": "957 11 14 16 info@lospatiosdelpanuelo.com"
+    },
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/contacto/",
+     "quote": "Contacta via WhatsApp chat 634 81 40 89"
+    },
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/contacto/",
+     "quote": "8:00 - 19:00"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K13",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif",
+     "company"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif",
+     "societe"
+    ]
+   },
+   "a": {
+    "es": "Según sus condiciones generales, el titular de la web es LOS PATIOS DEL PAÑUELO, con CIF B06836696.",
+    "ca": "Segons les seves condicions generals, el titular del web és LOS PATIOS DEL PAÑUELO, amb CIF B06836696.",
+    "en": "According to its general terms, the website owner is LOS PATIOS DEL PAÑUELO, CIF B06836696.",
+    "fr": "Selon ses conditions générales, le titulaire du site est LOS PATIOS DEL PAÑUELO, CIF B06836696."
+   },
+   "sources": [
+    {
+     "url": "https://www.lospatiosdelpanuelo.com/condiciones-generales/",
+     "quote": "El titular de este sitio web es LOS PATIOS DEL PAÑUELO, con CIF B06836696"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-apartamentos-los-patios-del-panuelo-cordoba",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T16:59:00+01:00",
+ "updated_at": "2026-10-29T17:10:00+01:00",
+ "business": {
+  "name": "Los Patios del Pañuelo",
+  "legal_name": "Los Patios del Pañuelo (CIF B06836696)",
+  "registry_ids": [
+   "CIF B06836696",
+   "Registro Mercantil de Córdoba, hoja CO-42544"
+  ],
+  "url": "https://www.lospatiosdelpanuelo.com/",
+  "domain": "lospatiosdelpanuelo.com",
+  "municipality": "Córdoba",
+  "province": "Córdoba",
+  "address": "Calle Osio, 10 · 14003 Córdoba",
+  "phones": [
+   "+34 957 11 14 16"
+  ],
+  "emails": [
+   "info@lospatiosdelpanuelo.com"
+  ],
+  "sector": "apartamentos turisticos en una casa del siglo XVII en la Juderia de Cordoba"
+ },
+ "rating": {
+  "value": 4.8,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Los+Patios+del+Pa%C3%B1uelo/@37.880292,-4.7783416,17z/data=!3m1!5s0xd6d2082c057af6b:0x2643f0c25852a7dd!4m9!3m8!1s0xd6d2108b7c00c5b:0xe6ffe059f9abc74f!5m2!4m1!1i2!8m2!3d37.880292!4d-4.7783416!16s%2Fg%2F11rb7cdg1n",
+  "date": "2026-10-29T16:42:02+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://www.lospatiosdelpanuelo.com/alquiler/alquiler-alquileres-d0/",
+   "ca": "https://www.lospatiosdelpanuelo.com/alquiler/alquiler-alquileres-d0/",
+   "en": "https://www.lospatiosdelpanuelo.com/en/rentals/holidays-rentals-rentals-d0/",
+   "fr": "https://www.lospatiosdelpanuelo.com/en/rentals/holidays-rentals-rentals-d0/"
+  },
+  "note": "Las reservas van al motor de reservas del propio negocio (listado con fechas y pago directo en lospatiosdelpanuelo.com, plataforma Avantio del propio dominio; version /en/, sin version francesa); la demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://www.lospatiosdelpanuelo.com/",
+  "date": "2026-10-29T16:43:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: apartamentos turisticos con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
