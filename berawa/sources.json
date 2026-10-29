@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.lospatiosdelpanuelo.com/",
+ "read_at": "2026-10-29T16:59:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.lospatiosdelpanuelo.com/",
+   "sha256": "55b08957f15e116ed240593bf6bd2b66ddc1c6d8518c2203e208fd2801379bf1",
+   "chars": 13656
+  },
+  {
+   "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-antonio-jesus-los-patios-del-panuelo-apto-2-351165.html",
+   "sha256": "e03b7ad99001ba9cef1a3ba5bdbbe63980cdfa9adfa1129fd6632aa6832fa384",
+   "chars": 20766
+  },
+  {
+   "url": "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-judit-los-patios-del-panuelo-apto-1-351164.html",
+   "sha256": "26f516c2d45bf6d73f8c376a00576038be73ba4c3c4a4e6606fd3bd08baf5d0f",
+   "chars": 20533
+  },
+  {
+   "url": "https://www.lospatiosdelpanuelo.com/alquiler/estudio-cordoba-isabel-los-patios-del-panuelo-apto-5-351752.html",
+   "sha256": "bf1f016e3937f3637ae6ffa9c3b57b3f959ac21084000baa27aa092871843f9f",
+   "chars": 19495
+  },
+  {
+   "url": "https://www.lospatiosdelpanuelo.com/condiciones-generales/",
+   "sha256": "5361d545f2b1b1f269f644db9c442a9c6c0c212dab35597adc064e1466288309",
+   "chars": 12953
+  },
+  {
+   "url": "https://www.lospatiosdelpanuelo.com/contacto/",
+   "sha256": "0449b421390e380f47ef1f5013155f81e6546ff547e422b2068547ff2da7492b",
+   "chars": 10145
+  },
+  {
+   "url": "https://www.lospatiosdelpanuelo.com/nosotros/",
+   "sha256": "36ba80f5091f2fa37f2205d1e10a8705cf24f871ecef0ef731040cc76e409d76",
+   "chars": 12319
+  }
+ ],
+ "other_pages_read": [
+  "https://www.lospatiosdelpanuelo.com",
+  "https://www.lospatiosdelpanuelo.com/alquiler/alquiler-alquileres-d0/",
+  "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-debora-los-patios-del-panuelo-apto-3-351170.html",
+  "https://www.lospatiosdelpanuelo.com/alquiler/apartamento-cordoba-sara-los-patios-del-panuelo-apto-4-351750.html",
+  "https://www.lospatiosdelpanuelo.com/alquiler/estudio-cordoba-miguel-angel-los-patios-del-panuelo-apto-6-351753.html",
+  "https://www.lospatiosdelpanuelo.com/alquiler/favoritos/",
+  "https://www.lospatiosdelpanuelo.com/alquiler/oferta-promo-3-noches-codigo-promocional-15patios-28207.html",
+  "https://www.lospatiosdelpanuelo.com/aviso-legal/",
+  "https://www.lospatiosdelpanuelo.com/en",
+  "https://www.lospatiosdelpanuelo.com/en/",
+  "https://www.lospatiosdelpanuelo.com/en/about-us/",
+  "https://www.lospatiosdelpanuelo.com/en/offers/",
+  "https://www.lospatiosdelpanuelo.com/en/rentals/favourites/",
+  "https://www.lospatiosdelpanuelo.com/en/rentals/holidays-rentals-rentals-d0/",
+  "https://www.lospatiosdelpanuelo.com/nosotros",
+  "https://www.lospatiosdelpanuelo.com/ofertas/",
+  "https://www.lospatiosdelpanuelo.com/politica-de-cookies/",
+  "https://www.lospatiosdelpanuelo.com/politica-de-privacidad/"
+ ]
+}
